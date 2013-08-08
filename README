@@ -1,0 +1,15 @@
+Sales Taxes - Ruby and RSpec
+Design:
+  I created three entities for this application(basket, item and receipt).
+
+Assumptions:
+  1. All input files would be added to the input_files directory with a .txt extension
+  2. The input data would follow the follow format(quantity, name, price)
+
+Instructions: 
+  Ruby version: ruby 2.0.0p247
+  RSpec version: 2.14.4
+
+  1. From the root directory run: ruby sales_tax.rb
+  2. Input files are located in the input_files directory
+  3. Assuming that RSpec is installed run specs with: rspec spec/
