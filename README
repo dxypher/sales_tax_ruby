@@ -4,7 +4,7 @@ Design:
 
 Assumptions:
   1. All input files would be added to the input_files directory with a .txt extension
-  2. The input data would follow the follow format(quantity, name, price)
+  2. The input data would be in the following format(quantity, name, price)
 
 Instructions: 
   Ruby version: ruby 2.0.0p247
